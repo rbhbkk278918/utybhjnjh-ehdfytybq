@@ -10,7 +10,6 @@
     <input type="file" id="pdfInput" accept=".pdf">
     <button onclick="openPDF()">Открыть PDF</button>
     <div id="pdfContainer"></div>
-
     <script src="main.js"></script>
 </body>
 </html>
